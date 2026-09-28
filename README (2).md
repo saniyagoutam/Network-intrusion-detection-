@@ -101,5 +101,4 @@ After running the notebook, it produces:
 - Random Forest feature importance chart
 - Example prediction for a test record
 
-## Author
-Add your name, course, institution, and submission details here.
+
